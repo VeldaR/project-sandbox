@@ -1,0 +1,52 @@
+@import 'modules/_basics.css';
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+
+body {
+    background: no-repeat center url("../assets/images/mountain_matteo_badini.jpg");
+    color: rgb(214, 214, 214);
+    font-family: 'Source Sans Pro', sans-serif;
+    max-width: 720px;
+    margin: 0 auto;
+}
+
+p {
+    max-width: 75%;
+}
+
+.smol {
+    font-size: 0.75rem;
+}
+
+.very-smol {
+    font-size: 0.72rem;
+}
+
+#header {
+    background: #101010;
+    text-align: center;
+    max-width: 200px;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 25px 5px 25px 5px;
+}
+
+#container {
+    background: #101010;
+    /* Units might change later. */
+    max-width: 75vw;
+    min-width: 50vw;
+    min-height: 40vh;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 5px 75px 5px 75px;
+}
+
+#footer {
+    background: #101010;
+    text-align: left;
+    max-width: 200px;
+    padding: 18px;
+    margin: 5px;
+    border-radius: 25px 5px 25px 5px;
+}
