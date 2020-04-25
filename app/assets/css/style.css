@@ -4,7 +4,7 @@
 
 body {
     background: no-repeat center url("../assets/images/mountain_matteo_badini.jpg");
-    color: rgb(214, 214, 214);
+    color: #d6d6d6;
     font-family: 'Source Sans Pro', sans-serif;
     max-width: 720px;
     margin: 0 auto;
@@ -12,6 +12,10 @@ body {
 
 p {
     max-width: 75%;
+}
+
+a:any-link {
+    color: #d6d6d6;
 }
 
 .smol {
