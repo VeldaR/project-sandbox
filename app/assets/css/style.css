@@ -3,8 +3,8 @@
 
 
 body {
-    background: no-repeat center url("../assets/images/mountain_matteo_badini.jpg");
-    color: #d6d6d6;
+    background: no-repeat center url("../assets/images/mountain_matteo_badini.jpg") #000;
+    color: #bebebe;
     font-family: 'Source Sans Pro', sans-serif;
     max-width: 720px;
     margin: 0 auto;
