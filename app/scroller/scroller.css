@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+a:any-link {
+    color: #eee;
+}
+
 body {
     background: #292929;
     color: #ccc;
